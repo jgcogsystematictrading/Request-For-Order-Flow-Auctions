@@ -1,0 +1,8 @@
+{
+  "config":
+    {
+      "port": 33667,
+      "priceDecimals": 8,
+      "airnodeHTTP": "https://vnci1lns59.execute-api.us-east-1.amazonaws.com/v1/"
+    }
+}
