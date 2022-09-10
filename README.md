@@ -27,4 +27,4 @@ Once the auction ends only the winning bidder can view the signed data. They hav
  
 # Frequently Asked Questions:
 Will oracles now be incentivized to trigger more MEV when they run this software?
-If you consume an oracle you already believe that the data providers are long term incentivized. Triggering more MEV increases fees for users and over the long term they will move to another oracle to avoid this. So you can expect that any long term incentivised data providers will not do this, and increasing their revenue through MEV should only incentivize them more to play the long game.
+If you consume an oracle you already believe that the data providers are long term incentivized. Triggering more MEV increases fees for users and over the long term they will move to another oracle to avoid this. So you can expect that data providers will not do this, and increasing their revenue through MEV should only incentivize them more to play the long game.
