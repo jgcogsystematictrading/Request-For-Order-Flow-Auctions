@@ -1,0 +1,24 @@
+{
+  "providers": [
+    {
+      "chain": "arbitrum",
+      "http_provider": "https://arb1.arbitrum.io/rpc"
+    },
+    {
+      "chain": "polygon",
+      "http_provider": "https://rpc-mainnet.matic.quiknode.pro"
+    },
+    {
+      "chain": "fantom",
+      "http_provider": "https://rpc.fantom.network"
+    },
+    {
+      "chain": "optimism",
+      "http_provider": "https://mainnet.optimism.io"
+    },
+    {
+      "chain": "avalanche",
+      "http_provider": "https://api.avax.network/ext/bc/C/rpc"
+    }
+  ]
+}
