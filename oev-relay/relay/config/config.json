@@ -1,0 +1,16 @@
+{
+  "config":
+    {
+      "port": 33666,
+      "priceDecimals": 8,
+      "contracts": {
+        "RelayerAddress": "0x1f7326763936E651D8c23B239FBe7e2368592904"
+      },
+      "timers": {
+        "auctionTimer": 10
+      },
+      "limits": {
+        "rateLimit": 600
+      }
+    }
+}
