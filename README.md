@@ -1,6 +1,6 @@
 # Request-For-Order-Flow-Auctions
 
-Initial grant source: https://forum.api3.org/t/secondary-proposal-airsigner-mev-airnode-development/1557
+Initial grant source for context: https://forum.api3.org/t/secondary-proposal-airsigner-mev-airnode-development/1557
 
 Contract Reference for DapiServer.sol (main API3 data feed contract that we built on top of): https://polygonscan.com/address/0xd7CA5BD7a45985D271F216Cb1CAD82348464f6d5#code
 
