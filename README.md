@@ -26,6 +26,6 @@ Once the auction ends only the winning bidder can view the signed data. They hav
  ![Screenshot (57)](https://user-images.githubusercontent.com/69164627/189503514-5b16cea0-47ec-4fe4-956e-8d3630beabc5.png)
  
 # Frequently Asked Questions:
-- Will oracles now be incentivized to trigger more MEV when they run this software?
+Will oracles now be incentivized to trigger more MEV when they run this software?
 
 If you consume an oracle you already believe that the data providers are long term incentivized. Triggering more MEV increases user fees and over the long term they will move to another dapp/oracle to avoid this. So you can expect that data providers will not do this, and increasing their revenue through MEV should only incentivize them more to play the long game.
