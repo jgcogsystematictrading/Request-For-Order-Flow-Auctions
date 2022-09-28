@@ -1,4 +1,4 @@
-# Request-For-Order-Flow-Auctions
+# Request-Order-Flow-Auctions
 
 Initial grant source for context: https://forum.api3.org/t/secondary-proposal-airsigner-mev-airnode-development/1557
 
